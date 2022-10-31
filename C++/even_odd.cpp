@@ -1,8 +1,8 @@
-//program to check whether a no. is even or odd
+//program to check whether a no. is even or odd.
 #include<bits/stdc++.h>
-
+//namespace added
 using namespace std;
-
+//main function
 int main()
 {
     int n;
