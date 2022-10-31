@@ -7,6 +7,7 @@ int main()
     int n;
     cin>>n;
     int k=sqrt(n);
+    //only checking for k*(k+1) as this is the necessary condition
     if(k*(k+1)==n)
      cout<<"Pronic Number"<<endl;
     else
