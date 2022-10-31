@@ -2,7 +2,7 @@
 #include<bits/stdc++.h>
 
 using namespace std;
-
+//main function
 int main()
 {
     string s;
